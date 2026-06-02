@@ -1,0 +1,45 @@
+body{
+    font-family: Arial, sans-serif;
+    width: 500px;
+    font-size: x-large;
+    color: rgb(51, 8, 244);
+    background-color: rgba(188, 255, 251, 0.345);
+
+}
+
+
+h1{
+    color:rgb(21, 0, 254);
+    text-align: left;
+    margin-right: 30% ;
+}
+
+
+form{
+    width: 300px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 125%;
+}
+
+
+label{
+    display: block;
+}
+
+
+input{
+    font-style: italic;
+    color: rgb(22, 22, 22);
+}
+
+.input-container{
+    margin-bottom: 10%;
+}
+
+
+.error-message {
+    color: red;
+    font-style: italic;
+    display: block;
+}
